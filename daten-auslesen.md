@@ -4,7 +4,7 @@ description: Hier wird dir erklaert wie du Daten vom Datenlogger ausliest.
 
 # Daten auslesen
 
-Um Daten vom Datenlogger auszulesen muesst Ihr den Logger mit einem Laptop verbinden. Allerdings braucht der Laptop die Software "LoggerNet", daher braucht Ihr den dafuer vorgesehenen Laptop. Diesen koennt Ihr entweder bei Carsten Staller oder Bastian Paas im Buero abholen.
+Um Daten vom Datenlogger auszulesen muesst Ihr den Logger mit einem Laptop verbinden. Allerdings braucht der Laptop die Software "LoggerNet", daher braucht Ihr den dafuer vorgesehenen Laptop. Diesen koennt Ihr entweder bei Carsten Schaller oder Bastian Paas im Buero abholen.
 
 Um den Laptop mit dem Logger zu verbinden braucht Ihr ein Patchkabel. Das kennen die meisten unter den Begriffen "Netzwerkkabel" oder "LAN-Kabel", da es benutzt wird wenn Ihr euren PC per Kabel ans Internet anschliesst. 
 
@@ -16,7 +16,7 @@ Dazu oeffnet ihr das Programm LoggerNet. Ihr bekommt eine Menue-Uebersicht in de
 
 ![Benutzeroberfl&#xE4;che LoggerNet](.gitbook/assets/gui.PNG)
 
-Im Anschluss daran sollte sich ein neues Fenster \(Connect Screen\) öffnen. Klickt nun oben links auf connect und stellt sicher das bei den **Stations** _CR3000 _und nicht _CR3000\_Seriell _ausgewählt ist. Der Logger sollte nun verbunden sein.
+Im Anschluss daran sollte sich ein neues Fenster \(Connect Screen\) öffnen. Klickt nun oben links auf **Connect **und stellt sicher das bei den **Stations** _CR3000 _und nicht _CR3000\_Seriell _ausgewählt ist. Der Logger sollte nun verbunden sein.
 
 ![](.gitbook/assets/connect.PNG)
 
@@ -30,7 +30,7 @@ Hier findet ihr die Ausgabe aller gemessenen Werte
 
 Überprüft ob die Werte sinnvoll sind... ... ... ... 
 
-An die vom Logger intern gespeicherten Werte kommt ihr nun mit folgenden Schritten. Schließt oder minimiert das Fenster mit den Ausgabewerten. Jetzt klickt ihr im Connect Screen auf File Control. Jetzt öffnet sich folgendes Fenster: 
+An die vom Logger intern gespeicherten Werte kommt ihr nun mit folgenden Schritten. Schließt oder minimiert das Fenster mit den Ausgabewerten. Jetzt klickt ihr im Connect Screen auf **File Control**. Jetzt öffnet sich folgendes Fenster: 
 
 ![](.gitbook/assets/bildschirmfoto-zu-2018-05-03-16-29-49.png)
 
