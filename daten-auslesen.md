@@ -40,7 +40,18 @@ Navigiert nun auf Desktop und dann zum Ordner _U\_Klima\_SS18\_A und klickt spei
 
 ![](.gitbook/assets/file4.PNG)
 
-Die Datensatz befindet sich nun im richtigen Ordner und ihr seid fertig. 
+Der Datensatz befindet sich nun im richtigen Ordner und ihr seid fertig. 
+
+Wenn Probleme mit der Verbindung auftreten:  
+- Überprüfung Logger - irgendeine Taste auf dem Logger drücken und schauen ob das Display an geht  
+- Display an: Problem zwischen Laptop und Logger  
+- Display bleibt aus: -&gt; Logger tot -&gt;Hotline anrufen 
+
+Zeitunstimmigkeiten -&gt; Hotline anrufen
+
+Hotline: 1. Bastian Paas 0251 83 39771  
+2. Carsten Schaller: 0251 8331969  
+
 
 
 
