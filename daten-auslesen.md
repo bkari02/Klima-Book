@@ -10,11 +10,21 @@ Um den Laptop mit dem Logger zu verbinden braucht Ihr ein Patchkabel. Das kennen
 
 ![Patchkabel fuer Verbindung zwischen Datenlogger und Laptop](.gitbook/assets/patchcable_black_20m.jpg)
 
-Wenn ihr den Datenlogger und den Laptop verbunden habt koennt ihr auch schon mit Daten auslesen loslegen. Dazu oeffnet ihr das Programm LoggerNet. Ihr bekommt eine Menue-Uebersicht in der ihr mehrere Optionen zur Auswahl habt. 
+Wenn ihr den Datenlogger und den Laptop verbunden habt koennt ihr auch schon mit Daten auslesen loslegen. 
 
-{% hint style="warning" %}
-Hier kann unter anderem auch der Programmcode editiert werden, was ihr aber auf keinen Fall tun solltet, sonst koennen die Messungen unbrauchbar werden. Deshalb experimentiert in LoggerNet bitte nicht herum, sondern haltet euch an die Vorgaben.
-{% endhint %}
+Dazu oeffnet ihr das Programm LoggerNet. Ihr bekommt eine Menue-Uebersicht in der ihr mehrere Optionen zur Auswahl habt. Unter dem Menüpunkt **Main **klickt ihr nun auf **Connect.**
 
-Ihr waehlt aus dem Menue .... und klickt dann ...
+![Benutzeroberfl&#xE4;che LoggerNet](.gitbook/assets/gui.PNG)
+
+Im Anschluss daran sollte sich ein neues Fenster \(Connect Screen\) öffnen. Klickt nun oben links auf connect und stellt sicher das bei den **Stations** _CR3000 _und nicht _CR3000\_Seriell _ausgewählt ist. Der Logger sollte nun verbunden sein.
+
+![](.gitbook/assets/connect.PNG)
+
+Jetzt klickt ihr auf **Num\_Display** und wählt _Display  1_ aus
+
+![](.gitbook/assets/num_neu%20%281%29.png)
+
+Hier findet ihr die Ausgabe aller gemessenen Werte 
+
+![](.gitbook/assets/log.PNG)
 
