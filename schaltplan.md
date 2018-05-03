@@ -15,7 +15,5 @@ Gibt ein Sensor keine Werte aus? Ist vielleicht ein Kabel locker oder sogar gar 
 Aber Vorsicht! Nimm den Datenlogger erst vom Strom bevor du mit dem Verkabeln startest!
 {% endhint %}
 
-![Schaltplan Logger](.gitbook/assets/2011-11.jpg)
-
 
 
