@@ -28,3 +28,19 @@ Hier findet ihr die Ausgabe aller gemessenen Werte
 
 ![](.gitbook/assets/log.PNG)
 
+Überprüft ob die Werte sinnvoll sind... ... ... ... 
+
+An die vom Logger intern gespeicherten Werte kommt ihr nun mit folgenden Schritten. Schließt oder minimiert das Fenster mit den Ausgabewerten. Jetzt klickt ihr im Connect Screen auf File Control. Jetzt öffnet sich folgendes Fenster: 
+
+![](.gitbook/assets/bildschirmfoto-zu-2018-05-03-16-29-49.png)
+
+Stellt als erstes sicher, dass **CRD** ausgewählt ist und klickt im Anschluss auf **Refresh. **Wählt nun den Datensatz mit dem _**Datum vom Vortag**_ aus und klickt dann Auf **Retrieve**. 
+
+Navigiert nun auf Desktop und dann zum Ordner _U\_Klima\_SS18\_A und klickt speichern. _
+
+![](.gitbook/assets/file4.PNG)
+
+Die Datensatz befindet sich nun im richtigen Ordner und ihr seid fertig. 
+
+
+
