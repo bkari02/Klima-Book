@@ -42,7 +42,21 @@ Hier findet ihr die Ausgabe der live gemessenen Werte.
 
 ![](.gitbook/assets/log.PNG)
 
-Überprüft nun, ob überall Werte gemessen werden und ob die Werte sinnvoll sind... ... ... ... 
+Überprüft nun, mit der unten stehenden Tabelle, ob die Werte Sinnvoll und somit auch im Toleranzbereich liegen 
+
+## Toleranzbereiche der Messwerte 
+
+| Temperatur in Kelvin |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Temperatur in Celsius |  |
+| Langwellig |  |
+| Kurzwellig  |  |
+| Lufttemperatur |  |
+| Luftdruck |  |
+| Luftfeuchtigkeit  |  |
+| Windgeschwindigkeit  |  |
+| Windrichtung  |  |
+| Niederschlagsmenge  |  |
 
 {% hint style="info" %}
 Stimmt etwas nicht mit den Werten, dann schaut in der [Hilfe](hilfe.md#was-mache-ich-wenn-die-werte-eines-sensors-unsinnig-sind-oder-gar-nicht-gemessen-werden) nach, was ihr tun könnt.
