@@ -76,7 +76,7 @@ Navigiert nun auf _Desktop_ und dann zum Ordner _U\_Klima\_SS18\_A _und klickt a
 Befindet sich der Datensatz nun im richtigen Ordner, seid ihr mit dem Auslesen der Daten fertig. Ihr könnt nun alle Fenster schließen.
 
 {% hint style="info" %}
-Schaut euch bitte noch kurz den Niederschlagssensor an und stellt sicher, dass die Kippwage nicht verstopft ist.
+Schaut euch bitte noch kurz den Niederschlagssensor an und stellt sicher, dass er nicht verstopft ist.
 {% endhint %}
 
 
