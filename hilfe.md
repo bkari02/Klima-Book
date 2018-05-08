@@ -44,7 +44,7 @@ Mithilfe der Schaltpläne könnt ihr überprüfen ob die Kabel des Sensors richt
 Solltet ihr etwas neu anschließen müssen trennt den Logger erst vom Strom und denkt daran ihn nachher wieder an den Strom anzuschließen.
 {% endhint %}
 
-Sollte der Fehler auch mit den Schaltplänen nicht behoben werden können meldet euch an der Hotline bei:  
+Sollte der Fehler auch mit den Schaltplänen nicht behoben werden können meldet euch an der [Hotline](hilfe.md#wo-melde-ich-mich-wenn-es-ein-problem-gibt).  
 
 
 ### Wo melde ich mich wenn es ein Problem gibt?
