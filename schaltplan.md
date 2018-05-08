@@ -38,7 +38,7 @@ Um euch möglichst einfach die Verkablung des Datenloggers mit den Sensoren zu z
 Gibt ein Sensor keine Werte aus? Ist vielleicht ein Kabel locker oder sogar gar nicht angeschlossen? Prüfe mit Hilfe der Schaltpläne, ob alle Kabel richtig angeschlossen sind und schließe ggf. lose Kabel wieder neue an.
 
 {% hint style="warning" %}
-Aber Vorsicht! Nimm den Datenlogger erst vom Strom bevor du mit dem Verkabeln startest!
+Aber Vorsicht! Bevor du mit dem Verkabeln startest gehe sicher, dass Du die Schaltpläne kennst und wirklich weißt wo du die Kabel anschließen musst!
 {% endhint %}
 
 
