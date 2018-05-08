@@ -1,7 +1,7 @@
 ---
 description: >-
-  Hey! Hier findet Ihr alle nötigen Informationen zum Datenlogger. Am besten
-  lest ihr euch bevor es ins Feld geht einmal alles durch.
+  Hier findet Ihr alle nötigen Informationen zum Datenlogger. Am besten lest ihr
+  euch bevor es ins Feld geht einmal alles durch.
 ---
 
 # Uebersicht
