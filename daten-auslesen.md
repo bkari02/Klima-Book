@@ -72,8 +72,12 @@ Navigiert nun auf _Desktop_ und dann zum Ordner _U\_Klima\_SS18\_A _und klickt a
 
 ![](.gitbook/assets/file4.PNG)
 
-Der Datensatz befindet sich nun im richtigen Ordner und ihr seid fertig.   
+Überprüft am besten noch einmal ob eurer Datensatz auch wirklich in dem Ordner gespeichert wurde.  
+Befindet sich der Datensatz nun im richtigen Ordner, seid ihr mit dem Auslesen der Daten fertig. Ihr könnt nun alle Fenster schließen.
 
+{% hint style="info" %}
+Schaut euch bitte noch kurz den Niederschlagssensor an und stellt sicher, dass die Kippwage nicht verstopft ist.
+{% endhint %}
 
 
 

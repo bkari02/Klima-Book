@@ -34,7 +34,9 @@ In diesem Fall meldet euch bitte **umgehend telefonisch** an der [Hotline](hilfe
 
 ### Was mache ich wenn die Werte eines Sensors unsinnig sind oder gar nicht gemessen werden?
 
-In diesem Fall solltet ihr die Kabel des jeweiligen Sensors überprüfen.   
+Sollte es sich um den Niederschlagssensor handeln, schaut euch diesen an und stellt sicher, dass er nicht verstopft ist.
+
+Ansonsten solltet ihr die Kabel des jeweiligen Sensors überprüfen.   
 Es kann sein, dass sich ein Kabel gelöst hat oder beschädigt ist. In diesem Fall schaut euch die Schaltpläne an, diese findet ihr einerseits digital unter [Schaltplan](schaltplan.md) oder in der Schutzhülle des Loggers ausgedruckt beiliegen.  
 Mithilfe der Schaltpläne könnt ihr überprüfen ob die Kabel des Sensors richtig angeschlossen sind. 
 
