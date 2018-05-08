@@ -41,7 +41,7 @@ Es kann sein, dass sich ein Kabel gelöst hat oder beschädigt ist. In diesem Fa
 Mithilfe der Schaltpläne könnt ihr überprüfen ob die Kabel des Sensors richtig angeschlossen sind. 
 
 {% hint style="info" %}
-Solltet ihr etwas neu anschließen müssen trennt den Logger erst vom Strom und denkt daran ihn nachher wieder an den Strom anzuschließen.
+Solltet ihr etwas neu anschließen müssen, schaut euch bitte sehr genau an wie die Verkablung im Schaltplan aussieht. Bevor ihr dann wirklich tätig werdet an der Verkablung, solltet ihr euch wirklich sicher sein, wie die Kabel angschlossen werden müssen!
 {% endhint %}
 
 Sollte der Fehler auch mit den Schaltplänen nicht behoben werden können meldet euch an der [Hotline](hilfe.md#wo-melde-ich-mich-wenn-es-ein-problem-gibt).  
