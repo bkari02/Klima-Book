@@ -2,7 +2,7 @@
 
 * [Uebersicht](README.md)
 * [Einführung](einfuehrung.md)
-* [Schaltplan](schaltplan.md)
+* [Schaltpläne](schaltplan.md)
 * [Daten auslesen](daten-auslesen.md)
 * [Hilfe](hilfe.md)
 
