@@ -21,17 +21,15 @@ Sollten Probleme beim Verbinden von Logger und Laptop auftreten, könnt ihr folg
 {% hint style="success" %}
 * [ ] Das Display des Loggers **geht an** - der Logger läuft also.
 
-Das Problem liegt in der Verbindung zwischen Laptop und Logger. Schließe das Programm und trenne die Verbindung zwischen den beiden Geräten. Verbinde sie dann erneut und beginne erneut mit dem Auslesen der Daten. 
+Das Problem liegt in der Verbindung zwischen Laptop und Logger. Schließe das Programm und trenne die Verbindung zwischen den beiden Geräten. Verbinde sie dann erneut und beginne erneut mit dem Auslesen der Daten.   
+Wenn das nicht hilft klickt [hier](hilfe.md#wo-melde-ich-mich-wenn-es-ein-problem-gibt).
 {% endhint %}
 
 {% hint style="danger" %}
 * [ ] Das Display des Loggers **bleibt aus.**
 
 Der Logger hat vermutlich keinen Strom und ist aus - er misst also keine Daten mehr!  
-In diesem Fall meldet euch bitte **umgehend telefonisch** bei:  
-Bastian Paas: 0251 83 39 77 1   
-oder falls dieser nicht ereichbar ist, bei:  
-Carsten Schaller: 0251 83 31 96 9
+In diesem Fall meldet euch bitte **umgehend telefonisch** an der [Hotline](hilfe.md#die-hotline).
 {% endhint %}
 
 ### Was mache ich wenn die Werte eines Sensors unsinnig sind oder gar nicht gemessen werden?
@@ -44,18 +42,20 @@ Mithilfe der Schaltpläne könnt ihr überprüfen ob die Kabel des Sensors richt
 Solltet ihr etwas neu anschließen müssen, schaut euch bitte sehr genau an wie die Verkablung im Schaltplan aussieht. Bevor ihr dann wirklich tätig werdet an der Verkablung, solltet ihr euch wirklich sicher sein, wie die Kabel angschlossen werden müssen!
 {% endhint %}
 
-Sollte der Fehler auch mit den Schaltplänen nicht behoben werden können meldet euch an der [Hotline](hilfe.md#wo-melde-ich-mich-wenn-es-ein-problem-gibt).  
+Sollte der Fehler auch mit den Schaltplänen nicht behoben werden können meldet euch an der [Hotline](hilfe.md#die-hotline).  
 
 
 ### Wo melde ich mich wenn es ein Problem gibt?
 
-Falls etwas kaputt gegangen ist oder ein grober Fehler auftritt solltet ihr euch umgehend telefonisch melden um möglichst schnell den Fehler zu beheben und wieder Daten zu messen. Dafür stehen euch folgende Telefonnummern zur Verfügung:  
-Ruft zuerst bei **Bastian Paas **an unter der Nummer   
-**0251 83 39 77 1 **  
-Falls dieser nicht ereichbar ist, meldet euch bei **Carsten Schaller** unter der Nummer   
-**0251 83 31 96 9**
+Falls etwas kaputt gegangen ist oder ein grober Fehler auftritt solltet ihr euch umgehend telefonisch melden, um möglichst schnell den Fehler zu beheben und wieder Daten messen zu können. Dafür steht euch die [Hotline](hilfe.md#die-hotline) zur Verfügung.  
 
 
+### Die Hotline
 
+Die Hotline besteht aus zwei Telefonnummern. Meldet euch bitte zuerst bei Bastian Paas. Wenn dieser nicht zu erreichen ist könnt ihr euch bei Carsten Schaller melden. 
 
+Bastian Paas: 0251 83 39 77 1   
+Carsten Schaller: 0251 83 31 96 9
+
+Sollten beide Telefonnummern nicht zu erreichen sein, geht auf keinen Fall einfach wieder nach Hause sondern schreibt eine Mail an bastian.paas@uni-muenster.de und versucht euch zu einem späteren Zeitpunkt nochmals telefonsich zu melden. 
 
