@@ -13,27 +13,27 @@ Um euch möglichst einfach die Verkablung des Datenloggers mit den Sensoren zu z
 
 #### Temperatur- & Luftfeuchtesensor HC2S3
 
-![](.gitbook/assets/logger3000-temperatur-und-luftfeuchte.jpg)
+![Temperatur- &amp; Luftfeuchtesensor HC2S3](.gitbook/assets/logger3000-temperatur-und-luftfeuchte.jpg)
 
 #### Propelleranemometer
 
-![](.gitbook/assets/logger3000-propeller.jpg)
+![Propelleranemometer](.gitbook/assets/logger3000-propeller.jpg)
 
 #### Wind Ultrasonic
 
-![](.gitbook/assets/logger3000-wind-ultrasonic.jpg)
+![Wind Ultrasonic](.gitbook/assets/logger3000-wind-ultrasonic.jpg)
 
 #### Luftdrucksensor
 
-![](.gitbook/assets/logger3000-luftdruck.jpg)
+![Luftdrucksensor](.gitbook/assets/logger3000-luftdruck.jpg)
 
 #### Niederschlagssensor
 
-![](.gitbook/assets/logger3000-niederschlag.jpg)
+![Niederschlagssensor](.gitbook/assets/logger3000-niederschlag.jpg)
 
 #### Strahlungssensor
 
-![](.gitbook/assets/logger3000-strahlung.jpg)
+![Strahlungssensor](.gitbook/assets/logger3000-strahlung.jpg)
 
 Gibt ein Sensor keine Werte aus? Ist vielleicht ein Kabel locker oder sogar gar nicht angeschlossen? Prüfe mit Hilfe der Schaltpläne, ob alle Kabel richtig angeschlossen sind und schließe ggf. lose Kabel wieder neue an.
 
